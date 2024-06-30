@@ -1,4 +1,4 @@
-# Keylooger with socet#
+# Keylooger with socet
 a python script uses to record a key inputs from cleint and send it to server 
 
 ## how to use
