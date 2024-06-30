@@ -1,4 +1,4 @@
-# SOcket script in python 
+# Socket script in python 
 a python script used in connection 
 
 ## how to use 
