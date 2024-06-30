@@ -5,7 +5,10 @@ PORT = 5050
 FORMAT = 'utf-8'
 D = "DES"
 HEADER = 64
-SERVER ="192.168.1.5"
+
+# write the ip you want to connect with in (..) 
+SERVER =".."
+
 ADDR =(SERVER , PORT)
 client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 client.connect(ADDR)
