@@ -1,8 +1,6 @@
 import socket
 import threading
 
-
-
 PORT = 5050
 FORMAT = 'utf-8'
 
